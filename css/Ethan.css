@@ -200,15 +200,16 @@ section {
 .HeroSection {
   height: 70vh;
   width: 100vw;
-  background-image: url('Media/6110e3fd-c145-4a91-a2a5-89a688676b48.png'); 
-  background-size: cover; 
-  background-position: center; 
-  background-repeat: no-repeat; 
+  background-image: url('/TempoMusicAcademy/Media/Heroimg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
 }
+
 
 .HeroSection h1 {
   color: #ffffff;
