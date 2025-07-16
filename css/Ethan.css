@@ -27,10 +27,6 @@ html, body {
     
   }
 
-  .contactinfo a {
-    font-size: 0.5rem;
-
-  }
 
   .Header a {
     font-size: 0.5rem;
@@ -421,6 +417,12 @@ section {
   max-width: 800px;
   box-sizing: border-box;
 }
+
+.formcontainer h2{
+  font-size: 2rem;
+
+}
+
 
 @media screen and (max-width: 768px) {
   .formcontainer {
